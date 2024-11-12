@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz até mais em Inglês?',
-    'Até mais em ingles é See you later (RAI)'
+    'Até mais em ingles é See you later'
 )
